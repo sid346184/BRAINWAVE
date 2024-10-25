@@ -1,3 +1,7 @@
+## StockAnalyser
+
+This is a FastAPI application that provides an endpoint to generate financial insights and graph data for a given stock ticker symbol. The application fetches financial data using `yfinance`, generates insights using the Groq API, and creates graph data based on the financial data.
+
 ### Problem Statement:
 ```Businesses, investors, and financial analysts often face challenges when trying to make data-driven decisions based on complex financial data, such as balance sheets, income statements, and cash flow reports. Gathering meaningful insights from this financial information requires in-depth analysis, which can be time-consuming and prone to errors if done manually. Moreover, competitors’ analysis and generating visualizations of financial data further complicate the decision-making process.```
 
